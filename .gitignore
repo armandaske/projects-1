@@ -1,6 +1,6 @@
 # Local files to ignore
 Project_04/credits.csv
-Project_06/namesbystate/bay_names_state.csv
+Project_06/namesbystate/baby_names_state.csv
 Project_06/names/us_baby_names.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
