@@ -2,6 +2,7 @@
 Project_04/credits.csv
 Project_06/namesbystate/baby_names_state.csv
 Project_06/names/us_baby_names.csv
+Project_06/names/concatenated_df.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
