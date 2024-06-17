@@ -4,6 +4,7 @@ Project_06/namesbystate/baby_names_state.csv
 Project_06/names/us_baby_names.csv
 Project_06/names/concatenated_df.csv
 Project_06/namesbystate/concatenated_df_by_state.csv
+Project_07/us_baby_names.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
